@@ -15,6 +15,9 @@
  
 ## Introdução ✉️
 - A área de agendamento de fretes da empresa Alpha enfrenta o desafio de otimizar o uso da frota de veículos, garantindo que cada veículo seja alocado de forma eficiente, respeitando as restrições de disponibilidade e capacidade de cada um. Para isso, desenvolvemos um sistema de calendário que permite o agendamento dos fretes de maneira intuitiva e visual, facilitando o trabalho dos colaboradores e garantindo o cumprimento das regras estabelecidas pela empresa.
+
+<img src= "img_calendario.png">
+
  
 ## Funcionalidades 🧠
 -  Marcação de dias no calendário para agendamento de fretes.
