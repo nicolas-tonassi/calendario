@@ -8,7 +8,7 @@
 * [Fontes Consultadas](#fontes-consultadas)
 * [Autores](#autores)
  
-# Cardápio
+# Calendário
  
 ## Descrição 📖
 - O projeto consiste em desenvolver um calendário interativo utilizando JavaScript, HTML5 e CSS3 para a empresa Alpha, com o objetivo de facilitar o agendamento de fretes para os veículos da frota. Cada veículo é identificado por uma cor específica e tem limitações quanto ao número de fretes por dia e por mês. A solução proposta permite ao colaborador da área de agendamento registrar os dias em que cada veículo realizará o frete, garantindo que as regras de agendamento sejam respeitadas.
