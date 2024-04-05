@@ -5,7 +5,7 @@ function colorirDia() {
     let td = calendar.getElementsByTagName('td')[(parseInt(days) - 1)];
  
     if (days < 1 || days > 30) {
-        alert("Por favor, digite um número de dia válido entre 01 e 30.");
+        alert("Por favor, digite dia válido entre 01 e 30.");
         return;
     }
  
