@@ -36,6 +36,6 @@ A área de agendamento de fretes da empresa Alpha enfrenta o desafio de otimizar
 - JavaScript.
  
 ## Autores 👥
-- Github; [Nicolas Tonassi](https://github.com/nicolas-tonassi); LinkedIn: [Nicolas Tonassi](https://www.linkedin.com/in/nicolas-tonassi-b70a50261?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- Github: [Nicolas Tonassi](https://github.com/nicolas-tonassi); LinkedIn: [Nicolas Tonassi](https://www.linkedin.com/in/nicolas-tonassi-b70a50261?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - [Murilo Tonassi](https://github.com/murilo-tonassi)
 - [Pamela Souza](https://github.com/PamelaSouzaSilva)
